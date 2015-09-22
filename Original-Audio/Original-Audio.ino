@@ -21,8 +21,8 @@ int filterValue = 175;
 // LED pins connected to the PWM pins on the Arduino
 
 int ledPinR = 9;
-int ledPinG = 10;
-int ledPinB = 11;
+int ledPinG = 11;
+int ledPinB = 10;
  
 void setup()
 {
