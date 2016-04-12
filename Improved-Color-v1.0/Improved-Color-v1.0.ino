@@ -7,8 +7,8 @@
  *  v0.5 - added standby function
  *  with fading random colors.
  *
- *  Thank you to David Wang for code
- *  on audio sampling!
+ *  Thank you to David Wang for audio
+ *  sampling concept!
  *
  *  Uses elapsedMillis library for
  *  timeouts and function changes.
