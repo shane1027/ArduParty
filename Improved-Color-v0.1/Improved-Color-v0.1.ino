@@ -4,8 +4,8 @@
  *  Code to sample audio signal using
  *  msgeq07 and control RGB lights.
  *  
- *  Thank you to David Wang for code
- *  on audio sampling!
+ *  Thank you to David Wang for audio
+ *  sampling concept!
  *  
  *  Uses elapsedMillis library for
  *  timeouts and function changes.
