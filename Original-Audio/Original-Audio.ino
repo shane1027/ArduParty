@@ -4,8 +4,8 @@
  *  Code to sample audio signal using
  *  msgeq07 and control RGB lights.
  *  
- *  Thank you to David Wang for code
- *  on audio sampling!
+ *  Thank you to David Wang for audio
+ *  sampling concept!
  *************************************/
 
 int analogPin = 0; // MSGEQ7 OUT
